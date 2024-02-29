@@ -1,0 +1,7 @@
+{
+  "name": "Testicles App",
+  "description": "Node.js Testicles instance",
+  "repository": "https://github.com/titaniumnetwork-dev/Testicles-App",
+  "logo": "https://raw.githubusercontent.com/titaniumnetwork-dev/Testicles-Static/main/public/uv.png",
+  "keywords": ["tomp", "Testicles"]
+}
